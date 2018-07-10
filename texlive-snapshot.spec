@@ -6,7 +6,7 @@
 # catalog-version 1.14
 Name:		texlive-snapshot
 Version:	1.14
-Release:	10
+Release:	11
 Summary:	List the external dependencies of a LaTeX document
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/snapshot
